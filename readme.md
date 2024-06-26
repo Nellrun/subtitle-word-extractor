@@ -31,7 +31,7 @@ This repository contains a Python script that processes subtitle files to extrac
 
 3. Install language model:
     ```sh
-    env/bin/python -m spacy download es_core_news_sm # your model
+    ./venv/bin/python -m spacy download es_core_news_sm # your model
     ```
 
 ## Example
